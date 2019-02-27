@@ -1,9 +1,17 @@
+
+# Revisions by BetaNET 
+
+Removed Exchange API for a simpler bot.
+Working out of the box as of 02/27/2019
+
+
+
 # What it does
 
 Poll a [Yiimp pool] block found result page (usually on /site/found\_results) and post a message to [Discord] chat room.
-It also feature a currency conversion to add blocks value in BTC and USDT (USD parity) using [stock.exchange] and [Cryptopia] markets API.
 
-Single file app all written in Python 3 asyncio, it should be very easy to modify to use additionnal markets API and or different endpoints.
+
+Single file app all written in Python 3 asyncio, it should be very easy to modify to use different endpoints.
 
 
 # System service installation
@@ -43,9 +51,7 @@ sudo tail -n 50 -f /var/log/syslog | grep yiimp-blocks-found-to-discord
 ```
 
 [Yiimp pool]: https://github.com/tpruvot/yiimp
-[Discord]: https://discordapp.com/
-[stock.exchange]: https://stocks.exchange/
-[Cryptopia]: https://www.cryptopia.co.nz/
+[Discord]: https://discordapp.com
 
 # Old aiohttp version
 
