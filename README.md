@@ -1,5 +1,10 @@
 
 # Revisions by BetaNET 
+https://betanet.io/
+Used on
+https://altcoinminers.us/
+in this discord
+https://discord.gg/c428mar
 
 Removed Exchange API for a simpler bot.
 Working out of the box as of 02/27/2019
