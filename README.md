@@ -12,9 +12,17 @@ Working out of the box as of 02/27/2019
 Feel Free to Donate:
 im poor
 BTC 1SG6X4BrZXikVznxzZuyG1nxWqz8eb761
+
+
 ETH 0xc288E81888288AbD190b032Df1C2Fa24BcA5996f
+
+
 LTC LfQfLJayes7EPdyzjQ2qS8S4eBHMpAjLQ7
+
+
 ZEC t1gQpSNcFGA1aWnUcREWZnRjTNXyFjWmcga
+
+
 DASH XfXuNxqv6KpUpJUq7bLM5PNkg65jbfKNBH
 
 # What it does
